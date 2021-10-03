@@ -8,8 +8,8 @@ A simple HTML design template made using :
 
 The website design is deployed at :
 
-    https://joychoudhury.github.io/Tinweb/
-
+    <a herf="https://joychoudhury.github.io/Tinweb/">https://joychoudhury.github.io/Tinweb/
+[Link to Google](https://www.google.com)
 
 
 <img src="/img/1.png">
