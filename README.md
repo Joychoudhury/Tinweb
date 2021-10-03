@@ -8,7 +8,7 @@ A simple HTML design template made using :
 
 The website design is deployed at :
 
-    [https://joychoudhury.github.io/Tinweb/](https://joychoudhury.github.io/Tinweb/)
+    [link](https://joychoudhury.github.io/Tinweb/)
 
 
 <img src="/img/1.png">
